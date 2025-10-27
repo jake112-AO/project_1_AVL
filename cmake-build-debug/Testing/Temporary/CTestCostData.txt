@@ -1,0 +1,46 @@
+Example 0 0
+Test 2 1
+BST 0 1
+Incorrect 0 1
+AVL 0 1
+Insert 100 0
+Example 0 0
+Test 2 1
+Custom 0 0
+Example 0 0
+Test 2 1
+Custom 0 0
+AVLTree 0 0
+AVLTree 0 0
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 0
+AVLTree 0 1
+AVLTree 0 0
+AVLTree 0 0
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 0
+AVLTree 0 1
+AVLTree 0 0
+AVLTree 0 0
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree 0 1
+AVLTree insert and searchID 1 0.00835733
+AVLTree insert invalid 1 0.00901308
+AVLTree remove 1 0.0100329
+AVLTree searchName 1 0.0075855
+AVLTree printInorder 1 0.00674604
+AVLTree printPreorder 1 0.00936158
+AVLTree levelCount 1 0.00898746
+AVLTree removeInorder 0 0
+---
+AVLTree removeInorder
